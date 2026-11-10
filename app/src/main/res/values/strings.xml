@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Excess Fee Checker</string>
+
+    <!-- UI Labels & Messages -->
+    <string name="welcome_title">Welcome to Excess Fee Checker!</string>
+    <string name="label_luggage_weight">Please Enter Your Luggage Weight (kg):</string>
+    <string name="hint_weight">e.g. 10.3kg</string>
+    <string name="label_excess_rate">Please Enter Excess Rate per kg (RM):</string>
+    <string name="label_ticket_type">Please Enter Your Ticket Type:</string>
+    <string name="btn_calculate">Calculate!</string>
+    <string name="tv_excess_weight">Excess weight: </string>
+    <string name="tv_charge">Charge: RM0.00</string>
+    <string name="tv_total">Total Payable: RM0.00</string>
+
+    <!-- Student & App Details -->
+    <string name="student_name">Mohammad Meerza Danial bin Md Amir</string>
+    <string name="student_id">2024699398</string>
+    <string name="group_code">RCDCS2515A</string>
+    <string name="programme_code">CDCS251</string>
+    <string name="github_url">https://github.com/yourusername/ExcessFeeChecker</string>
+
+    <!-- Menu Items -->
+    <string name="menu_share">Share</string>
+    <string name="menu_about">About</string>
+
+    <string-array name="ticket_classes">
+        <item>Economy</item>
+        <item>Business</item>
+    </string-array>
+</resources>
